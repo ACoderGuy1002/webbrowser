@@ -1,0 +1,9 @@
+window.onkeyup = keyup;
+
+function goto(){
+    let inputTextValue = document.getElementById("url")
+
+    inputTextValue = inputTextValue.value;
+
+    window.open('https://www.duckduckgo.com/?t=lm&q=' + inputTextValue).focus;
+}
