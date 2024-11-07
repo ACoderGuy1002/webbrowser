@@ -1,6 +1,3 @@
-import {} from './empty.js';
-
-
 function goto(){
     let inputTextValue = document.getElementById("url")
 
