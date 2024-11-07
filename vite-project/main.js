@@ -1,5 +1,3 @@
-window.onkeyup = keyup;
-
 function goto(){
     let inputTextValue = document.getElementById("url")
 
