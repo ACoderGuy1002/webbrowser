@@ -1,4 +1,4 @@
-function goto(){
+export function goto(){
     let inputTextValue = document.getElementById("url")
 
     inputTextValue = inputTextValue.value;
