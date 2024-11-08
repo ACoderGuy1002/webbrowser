@@ -10,7 +10,7 @@ body {
   align-items: center;
 }
 .url {
-  width: 300px;
+  width: 800px;
   height: 50px;
   font-size: 30px;
   border-radius: 5px;
@@ -56,7 +56,6 @@ body {
   align-items: center;
   margin-top: 250px;
   margin-bottom: 10px;
-
 }
 
 .text {
