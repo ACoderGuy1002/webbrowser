@@ -24,7 +24,3 @@ const form = document.getElementById("form");
 const drop = document.getElementById("engine")
 
 form.addEventListener("submit", goto);
-
-function changesearch(){
-
-}
